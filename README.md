@@ -33,9 +33,10 @@
 <h2 align="left">:heart: You like Code (we can code together), You dont like Code (I can help you fall in love with code), It's all good Lets get connected </h2>
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+ <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" </a>
+   
 </p>
 <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" padding="10px"><br>
  </p>
-<a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" </a>
-   
+
 
