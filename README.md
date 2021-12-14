@@ -1,9 +1,9 @@
 <h2 align="left">
  <abc>
-  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/techyy.gif" ><br>
+  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/tec.gif" align='center' ><br>
   <br> I'm Shaishav Maisuria, Full Stack and A.I. Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -30,4 +30,5 @@
 - :zap: “Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.” — Jamie Zawinski<br>
 
 <h2 align="left">:heart: You like Code (we can code together), You dont like Code (I can help you fall in love with code), It's all good Lets get connected </h2>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" padding="10px"><br>
