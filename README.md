@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <p align="center">
-  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/tec.gif" width="760" height="400" ><br>
+  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/tec.gif" width="460" height="300" ><br>
   </p>
 
     
