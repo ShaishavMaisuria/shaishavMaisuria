@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/brainAI.gif" width="30"><br>
+  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/brainAI.gif" width="300"><br>
   <br> I'm Shaishav Maisuria, Full Stack and A.I. Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
