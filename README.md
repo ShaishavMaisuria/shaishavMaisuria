@@ -1,5 +1,5 @@
 
-<table>
+<table align="center">
 <tr>
 <th>
 			<p align="center">
@@ -7,6 +7,7 @@
 			</p>    
 </th>
 <th>
+	<h2 align="left">:heart: Lets get connected </h2>
 			<p align="center" >
 				<a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="100" width="100" title="LinkedIn" /> </a>
 			</p>
@@ -25,7 +26,8 @@
 - :man_technologist: Currently enrolled in my Early master in computer science program
 - :zap: “Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.” — Jamie Zawinski<br>
 
-<h2 align="left">:heart: You like Code (we can code together), You dont like Code (I can help you fall in love with code), It's all good Lets get connected </h2>
+
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <table align="center">
 <tr>
 <th>
