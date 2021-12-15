@@ -38,7 +38,6 @@
   <th>
 <p align="center">
   <img src="  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/shaishavIntro.gif" width="400"><br>
-" alt="Coder GIF" width="400">
  </p>
   </th>
   <th>
