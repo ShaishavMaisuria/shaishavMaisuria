@@ -1,11 +1,10 @@
 
-<h2 align="left">
  <abc>
   <p align="center">
   <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/ironDev.gif" width ="350" height="350"><br>
   </p>    
  </abc>
-</h2> 
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
