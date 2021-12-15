@@ -33,7 +33,7 @@
 - :zap: “Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.” — Jamie Zawinski<br>
 
 <h2 align="left">:heart: You like Code (we can code together), You dont like Code (I can help you fall in love with code), It's all good Lets get connected </h2>
-<table>
+<table align="center">
  <tr>
   <th>
 <p align="center">
@@ -41,7 +41,7 @@
  </p>
   </th>
   <th>
- <p align="center">
+ <p align="center" padding-left="100px">
  <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="150" width="150" title="LinkedIn" </a>
 </p>
 	  <p align="center">
