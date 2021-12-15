@@ -2,13 +2,13 @@
 <h2 align="left">
  <abc>
   <p align="center">
-  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/shaishavIntro.gif"><br>
+  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/shaishavIntro.gif" width="200" height="200"><br>
   </p>    
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
@@ -42,10 +42,10 @@
   </th>
   <th>
  <p align="center" >
- <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="150" width="150" title="LinkedIn" /> </a>
+ <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="100" width="100" title="LinkedIn" /> </a>
 </p>
 	  <p align="center">
- <a href="https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing" target="_blank"> <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/Resume.jpg" height="150" width="150" title="LinkedIn"/> </a>
+ <a href="https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing" target="_blank"> <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/Resume.jpg" height="100" width="100" title="Resume"/> </a>
 </p>
   </th>
  </tr>
