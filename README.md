@@ -8,13 +8,14 @@
 	</th>
 	
 	<th>
- <p align="center" >
- <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="100" width="100" title="LinkedIn" /> </a>
-</p>
-	  <p align="center">
- <a href="https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing" target="_blank"> <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/Resume.jpg" height="100" width="100" title="Resume"/> </a>
-</p>
-  </th>
+			 <p align="center" >
+			 <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="100" width="100" title="LinkedIn" /> </a>
+			</p>
+			  <p align="center">
+		 <a href="https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing" target="_blank"> <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/Resume.jpg" height="100" width="100" title="Resume"/> </a>
+		</p>
+  	</th>
+	</tr>
 </table>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
