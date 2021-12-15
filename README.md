@@ -42,7 +42,7 @@
   </th>
   <th>
  <p align="center">
- <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="50" width="50" title="LinkedIn" </a>
+ <a href="https://www.linkedin.com/in/shaishav-maisuria/" target="_blank"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height="100" width="100" title="LinkedIn" </a>
 </p>
   </th>
  </tr>
