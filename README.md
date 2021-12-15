@@ -2,7 +2,7 @@
 <h2 align="left">
  <abc>
   <p align="center">
-  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/tec.gif" width="460" height="300" ><br>
+  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/shaishavIntro.gif"><br>
   </p>    
  </abc>
 </h2> 
