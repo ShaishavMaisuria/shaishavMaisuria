@@ -37,7 +37,8 @@
  <tr>
   <th>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  <img src="  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/shaishavIntro.gif" width="200" height="200"><br>
+" alt="Coder GIF" width="400">
  </p>
   </th>
   <th>
