@@ -1,9 +1,5 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-<table align="center">
+
+<table align="center" border="0">
 <tr>
 <th>
 			<p align="center">
