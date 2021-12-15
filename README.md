@@ -2,7 +2,7 @@
 <h2 align="left">
  <abc>
   <p align="center">
-  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/ironDev.gif"><br>
+  <br>  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/ironDev.gif" width ="300" height="300"><br>
   </p>    
  </abc>
 </h2> 
@@ -37,7 +37,7 @@
  <tr>
   <th>
 <p align="center">
-  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/developer.gif" width="400">
+  <img src="https://github.com/ShaishavMaisuria/shaishavMaisuria/blob/main/developer.gif" width="300">
  </p>
   </th>
   <th>
