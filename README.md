@@ -20,7 +20,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working at Startup Company called Snapbrillia as Full stack and A.I. intern
 - :hourglass_flowing_sand:  Exploring Google Cloud
 - :rocket: For Dev and A.I. Experiments, I'm always willing to participate.
 - :man_technologist: Currently enrolled in my Early master in computer science program
