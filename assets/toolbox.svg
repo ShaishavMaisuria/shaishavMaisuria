@@ -1,93 +1,162 @@
-<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Shaishav Maisuria toolbox</title>
-  <desc id="desc">A bounded white toolbox panel with uniformly sized technology chips.</desc>
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shaishav Maisuria geospatial big data AWS and AI toolbox</title>
+  <desc id="desc">A bounded white toolbox panel with uniformly sized chips for geospatial, big-data ETL, AWS, and AI engineering skills.</desc>
   <defs>
+    <linearGradient id="brand" x1="56" y1="316" x2="1144" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="0.55" stop-color="#0E7490"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
     <clipPath id="clip">
-      <rect width="1200" height="250" rx="26"/>
+      <rect width="1200" height="340" rx="26"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#clip)">
-    <rect width="1200" height="250" fill="#FFFFFF"/>
-    <rect x="1" y="1" width="1198" height="248" rx="25" stroke="#E2E8F0"/>
+    <rect width="1200" height="340" fill="#FFFFFF"/>
+    <rect x="1" y="1" width="1198" height="338" rx="25" stroke="#E2E8F0"/>
 
     <g font-family="Inter, Segoe UI, Arial, sans-serif">
-      <text x="56" y="48" fill="#0F172A" font-size="22" font-weight="850">Toolbox</text>
-      <text x="56" y="76" fill="#64748B" font-size="13" font-weight="600">A practical stack for AI-assisted workflows, data analysis, web systems, and documentation.</text>
+      <text x="56" y="46" fill="#0F172A" font-size="22" font-weight="850">Toolbox</text>
+      <text x="56" y="74" fill="#64748B" font-size="13" font-weight="600">Spatial data, big-data ETL, AWS services, and AI engineering tools without clutter.</text>
     </g>
 
-    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">
-      <g transform="translate(56 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
-        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
-        <text x="44" y="26" fill="#0F172A">Python</text>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="850">
+      <g transform="translate(56 105)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0F766E">
+          <animate attributeName="opacity" values="0.55;1;0.55" dur="3.8s" repeatCount="indefinite"/>
+        </circle>
+        <text x="44" y="25" fill="#0F172A">GIS</text>
       </g>
-      <g transform="translate(212 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
-        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
-        <text x="44" y="26" fill="#0F172A">JavaScript</text>
+      <g transform="translate(238 105)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0F766E"/>
+        <text x="44" y="25" fill="#0F172A">Spatial SQL</text>
       </g>
-      <g transform="translate(368 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
-        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
-        <text x="44" y="26" fill="#0F172A">Java</text>
+      <g transform="translate(420 105)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0F766E"/>
+        <text x="44" y="25" fill="#0F172A">PostGIS</text>
       </g>
-      <g transform="translate(524 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
-        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
-        <text x="44" y="26" fill="#0F172A">Go</text>
+      <g transform="translate(602 105)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0F766E"/>
+        <text x="44" y="25" fill="#0F172A">GeoPandas</text>
       </g>
-      <g transform="translate(680 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
-        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
-        <text x="44" y="26" fill="#0F172A">R</text>
+      <g transform="translate(784 105)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0F766E"/>
+        <text x="44" y="25" fill="#0F172A">GDAL</text>
       </g>
-      <g transform="translate(836 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
-        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
-        <text x="44" y="26" fill="#0F172A">Jupyter</text>
-      </g>
-      <g transform="translate(992 108)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
-        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
-        <text x="44" y="26" fill="#0F172A">React</text>
+      <g transform="translate(966 105)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0F766E"/>
+        <text x="44" y="25" fill="#0F172A">QGIS</text>
       </g>
 
-      <g transform="translate(56 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
-        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
-        <text x="44" y="26" fill="#0F172A">Node.js</text>
+      <g transform="translate(56 157)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0E7490">
+          <animate attributeName="opacity" values="0.55;1;0.55" dur="4.1s" repeatCount="indefinite"/>
+        </circle>
+        <text x="44" y="25" fill="#0F172A">Scala</text>
       </g>
-      <g transform="translate(212 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
-        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
-        <text x="44" y="26" fill="#0F172A">Express</text>
+      <g transform="translate(238 157)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0E7490"/>
+        <text x="44" y="25" fill="#0F172A">Spark</text>
       </g>
-      <g transform="translate(368 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
-        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
-        <text x="44" y="26" fill="#0F172A">MongoDB</text>
+      <g transform="translate(420 157)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0E7490"/>
+        <text x="44" y="25" fill="#0F172A">Hadoop</text>
       </g>
-      <g transform="translate(524 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
-        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
-        <text x="44" y="26" fill="#0F172A">Firebase</text>
+      <g transform="translate(602 157)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0E7490"/>
+        <text x="44" y="25" fill="#0F172A">ETL</text>
       </g>
-      <g transform="translate(680 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
-        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
-        <text x="44" y="26" fill="#0F172A">Cloud</text>
+      <g transform="translate(784 157)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0E7490"/>
+        <text x="44" y="25" fill="#0F172A">Airflow</text>
       </g>
-      <g transform="translate(836 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
-        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
-        <text x="44" y="26" fill="#0F172A">Postman</text>
+      <g transform="translate(966 157)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="20" r="6.5" fill="#0E7490"/>
+        <text x="44" y="25" fill="#0F172A">Kafka</text>
       </g>
-      <g transform="translate(992 166)">
-        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
-        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
-        <text x="44" y="26" fill="#0F172A">Markdown</text>
+
+      <g transform="translate(56 209)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="20" r="6.5" fill="#2563EB">
+          <animate attributeName="opacity" values="0.55;1;0.55" dur="4.4s" repeatCount="indefinite"/>
+        </circle>
+        <text x="44" y="25" fill="#0F172A">AWS</text>
+      </g>
+      <g transform="translate(238 209)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="20" r="6.5" fill="#2563EB"/>
+        <text x="44" y="25" fill="#0F172A">S3</text>
+      </g>
+      <g transform="translate(420 209)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="20" r="6.5" fill="#2563EB"/>
+        <text x="44" y="25" fill="#0F172A">Glue</text>
+      </g>
+      <g transform="translate(602 209)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="20" r="6.5" fill="#2563EB"/>
+        <text x="44" y="25" fill="#0F172A">EMR</text>
+      </g>
+      <g transform="translate(784 209)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="20" r="6.5" fill="#2563EB"/>
+        <text x="44" y="25" fill="#0F172A">Athena</text>
+      </g>
+      <g transform="translate(966 209)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="20" r="6.5" fill="#2563EB"/>
+        <text x="44" y="25" fill="#0F172A">Lambda</text>
+      </g>
+
+      <g transform="translate(56 261)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="24" cy="20" r="6.5" fill="#334155">
+          <animate attributeName="opacity" values="0.55;1;0.55" dur="4.7s" repeatCount="indefinite"/>
+        </circle>
+        <text x="44" y="25" fill="#0F172A">Prompt Eng</text>
+      </g>
+      <g transform="translate(238 261)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="24" cy="20" r="6.5" fill="#334155"/>
+        <text x="44" y="25" fill="#0F172A">Context Eng</text>
+      </g>
+      <g transform="translate(420 261)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="24" cy="20" r="6.5" fill="#334155"/>
+        <text x="44" y="25" fill="#0F172A">AI Harness</text>
+      </g>
+      <g transform="translate(602 261)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="24" cy="20" r="6.5" fill="#334155"/>
+        <text x="44" y="25" fill="#0F172A">AI Tools</text>
+      </g>
+      <g transform="translate(784 261)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="24" cy="20" r="6.5" fill="#334155"/>
+        <text x="44" y="25" fill="#0F172A">AI Infra</text>
+      </g>
+      <g transform="translate(966 261)">
+        <rect width="166" height="40" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="24" cy="20" r="6.5" fill="#334155"/>
+        <text x="44" y="25" fill="#0F172A">Agents</text>
       </g>
     </g>
+
+    <rect x="56" y="320" width="1076" height="3" rx="1.5" fill="url(#brand)" opacity="0.64">
+      <animate attributeName="opacity" values="0.35;0.7;0.35" dur="6s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>

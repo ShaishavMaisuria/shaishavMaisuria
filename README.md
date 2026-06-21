@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Animated banner for Shaishav Maisuria: AI, research, and software" width="100%">
+<img src="./assets/hero.svg" alt="Animated banner for Shaishav Maisuria: geospatial AI, big data, AWS ETL, and AI engineering" width="100%">
 
 # Shaishav Maisuria
 
-### AI-assisted workflows, data systems, and practical software craft.
+### Geospatial AI, big data engineering, AWS ETL, and AI infrastructure.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=0F766E&center=true&vCenter=true&width=900&lines=AI-assisted+workflow+systems;Data-backed+software+experiments;Clear+tools+for+complex+work" alt="Animated typing SVG: AI-assisted workflows, data-backed software, and clear tools" width="92%">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=0F766E&center=true&vCenter=true&width=900&lines=Geospatial+AI+and+spatial+data+systems;Scala%2C+Hadoop%2C+Spark%2C+ETL%2C+AWS;AI-driven+development%2C+context+engineering%2C+AI+infra" alt="Animated typing SVG: geospatial AI, big data, ETL, AWS, and AI infrastructure" width="92%">
 
 <p>
   <a href="https://www.linkedin.com/in/shaishav-maisuria/">
@@ -22,28 +22,28 @@
 
 </div>
 
-I build at the intersection of AI workflows, data-informed engineering, and practical software. My GitHub profile is meant to show a clear professional signal: thoughtful systems, readable implementation, and tools that make complex work easier to understand and use.
+I build at the intersection of geospatial intelligence, big-data engineering, AWS data infrastructure, and AI-driven development. My work centers on spatial data systems, ETL pipelines, scalable processing, context engineering, AI harnesses, and practical AI tools that make complex technical workflows easier to run and reason about.
 
-<img src="./assets/research-flow.svg" alt="Professional brand pillars: systems, data, craft, and clarity" width="100%">
+<img src="./assets/research-flow.svg" alt="Professional brand pillars: geospatial intelligence, big data and ETL, AWS infrastructure, and AI engineering" width="100%">
 
 ## Brand focus
 
 | Pillar | Direction |
 | --- | --- |
-| AI systems | Designing agent-assisted workflows that keep human judgment in control. |
-| Data thinking | Turning messy information into analysis, decisions, and useful feedback loops. |
-| Software craft | Writing code that is understandable, maintainable, and easy to build on. |
-| Communication | Making technical work easier to explain through docs, structure, and clean handoffs. |
+| Geospatial intelligence | GIS, spatial data modeling, mapping workflows, and location-aware analytics. |
+| Big data and ETL | Scala, Hadoop/Spark-style processing, pipeline design, orchestration, and data quality. |
+| AWS data infrastructure | Cloud-native storage, processing, integration, and operational data platforms. |
+| AI engineering | AI-driven development, prompt/context engineering, AI harnesses, tools, and infra. |
 
 ## Toolbox
 
-<img src="./assets/toolbox.svg" alt="Toolbox: Python, JavaScript, Java, Go, R, Jupyter, React, Node.js, Express, MongoDB, Firebase, Cloud, Postman, Git, and Markdown" width="100%">
+<img src="./assets/toolbox.svg" alt="Toolbox: GIS, spatial SQL, PostGIS, GeoPandas, GDAL, QGIS, Scala, Spark, Hadoop, ETL, Airflow, Kafka, AWS, S3, Glue, EMR, Athena, Lambda, prompt engineering, context engineering, AI harnesses, AI tools, AI infrastructure, and agents" width="100%">
 
 ## How I work
 
-- I use GitHub as a lab notebook: build, document, revisit, improve.
-- I value code that explains the idea, not just code that runs.
-- I like work where AI, data, and product thinking meet.
+- I think spatially first: location, scale, topology, time, and data quality all matter.
+- I build data systems as repeatable pipelines: ingest, transform, validate, serve, monitor.
+- I use AI as engineering infrastructure: prompts, context, tools, evals, harnesses, and automation.
 
 ## GitHub snapshot
 
