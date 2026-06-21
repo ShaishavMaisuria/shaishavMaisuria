@@ -1,56 +1,73 @@
-<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Professional brand pillars</title>
-  <desc id="desc">A refined strip showing four brand pillars: systems, data, craft, and clarity.</desc>
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shaishav Maisuria geospatial data and AI brand pillars</title>
+  <desc id="desc">Four contained brand pillar cards for geospatial intelligence, big-data ETL, AWS infrastructure, and AI engineering.</desc>
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F8FAFC"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="80" y1="150" x2="1120" y2="42" gradientUnits="userSpaceOnUse">
+    <linearGradient id="brand" x1="56" y1="190" x2="1144" y2="48" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F766E"/>
-      <stop offset="0.45" stop-color="#0E7490"/>
+      <stop offset="0.55" stop-color="#0E7490"/>
       <stop offset="1" stop-color="#2563EB"/>
     </linearGradient>
-    <filter id="shadow" x="-12%" y="-40%" width="124%" height="180%">
-      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#0F172A" flood-opacity="0.12"/>
-    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="230" rx="26"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="190" rx="26" fill="url(#surface)"/>
-  <rect x="1" y="1" width="1198" height="188" rx="25" stroke="#E2E8F0"/>
-  <path d="M88 150C246 92 358 104 506 126C654 148 758 95 890 78C986 66 1062 84 1112 46" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-opacity="0.62"/>
-  <path d="M88 150C246 92 358 104 506 126C654 148 758 95 890 78C986 66 1062 84 1112 46" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="74 160">
-    <animate attributeName="stroke-dashoffset" values="0;-468" dur="7s" repeatCount="indefinite"/>
-  </path>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="230" fill="#FFFFFF"/>
+    <rect x="1" y="1" width="1198" height="228" rx="25" stroke="#E2E8F0"/>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
-    <g transform="translate(72 48)">
-      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="36" cy="36" r="14" fill="#E6F4F1"/>
-      <path d="M28 36H44M36 28V44" stroke="#0F766E" stroke-width="3" stroke-linecap="round"/>
-      <text x="64" y="38" fill="#0F172A" font-size="18" font-weight="850">Systems</text>
-      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">AI workflows with structure</text>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="56" y="44" fill="#0F172A" font-size="20" font-weight="850">Brand focus</text>
+      <text x="56" y="70" fill="#64748B" font-size="13" font-weight="600">A geospatial-first operating style for data platforms, cloud pipelines, and useful AI systems.</text>
     </g>
-    <g transform="translate(350 48)">
-      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="36" cy="36" r="14" fill="#EDF2F7"/>
-      <path d="M28 42L34 35L40 39L46 29" stroke="#0E7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="64" y="38" fill="#0F172A" font-size="18" font-weight="850">Data</text>
-      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">analysis that informs choices</text>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <g transform="translate(56 98)">
+        <rect width="256" height="92" rx="18" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="35" cy="42" r="18" fill="#ECFDF5"/>
+        <path d="M35 26C27 26 22 32 22 39C22 50 35 59 35 59C35 59 48 50 48 39C48 32 43 26 35 26Z" stroke="#0F766E" stroke-width="2.6" stroke-linejoin="round"/>
+        <circle cx="35" cy="39" r="4" fill="#0F766E">
+          <animate attributeName="opacity" values="0.45;1;0.45" dur="3.5s" repeatCount="indefinite"/>
+        </circle>
+        <text x="68" y="34" fill="#0F172A" font-size="16" font-weight="850">Geospatial</text>
+        <text x="68" y="57" fill="#475569" font-size="12" font-weight="650">GIS, spatial modeling,</text>
+        <text x="68" y="75" fill="#475569" font-size="12" font-weight="650">mapping workflows</text>
+      </g>
+
+      <g transform="translate(336 98)">
+        <rect width="256" height="92" rx="18" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="35" cy="42" r="18" fill="#F0FDFA"/>
+        <ellipse cx="35" cy="31" rx="12" ry="5" stroke="#0E7490" stroke-width="2.4"/>
+        <path d="M23 31V50C23 53 28 56 35 56C42 56 47 53 47 50V31" stroke="#0E7490" stroke-width="2.4"/>
+        <path d="M23 41C23 44 28 47 35 47C42 47 47 44 47 41" stroke="#0E7490" stroke-width="2.4"/>
+        <text x="68" y="34" fill="#0F172A" font-size="16" font-weight="850">Big data ETL</text>
+        <text x="68" y="57" fill="#475569" font-size="12" font-weight="650">Scala, Spark, Hadoop,</text>
+        <text x="68" y="75" fill="#475569" font-size="12" font-weight="650">pipelines, quality</text>
+      </g>
+
+      <g transform="translate(616 98)">
+        <rect width="256" height="92" rx="18" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="35" cy="42" r="18" fill="#EFF6FF"/>
+        <path d="M25 48H46C51 48 54 45 54 41C54 37 51 34 47 34C46 28 41 25 36 25C31 25 27 28 25 33C20 34 17 38 17 42C17 46 20 48 25 48Z" stroke="#2563EB" stroke-width="2.4" stroke-linejoin="round"/>
+        <text x="68" y="34" fill="#0F172A" font-size="16" font-weight="850">AWS infra</text>
+        <text x="68" y="57" fill="#475569" font-size="12" font-weight="650">S3, Glue, EMR, Athena,</text>
+        <text x="68" y="75" fill="#475569" font-size="12" font-weight="650">cloud-native data</text>
+      </g>
+
+      <g transform="translate(896 98)">
+        <rect width="248" height="92" rx="18" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="35" cy="42" r="18" fill="#ECFDF5"/>
+        <path d="M27 45L34 30H42L36 41H45L31 58L35 45H27Z" fill="#0F766E">
+          <animate attributeName="opacity" values="0.72;1;0.72" dur="3.8s" repeatCount="indefinite"/>
+        </path>
+        <text x="68" y="34" fill="#0F172A" font-size="16" font-weight="850">AI engineering</text>
+        <text x="68" y="57" fill="#475569" font-size="12" font-weight="650">Prompt/context design,</text>
+        <text x="68" y="75" fill="#475569" font-size="12" font-weight="650">harnesses, tools, infra</text>
+      </g>
     </g>
-    <g transform="translate(628 48)">
-      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#BFDBFE"/>
-      <circle cx="36" cy="36" r="14" fill="#EFF6FF"/>
-      <path d="M28 34H44M28 42H38M28 26H42" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
-      <text x="64" y="38" fill="#0F172A" font-size="18" font-weight="850">Craft</text>
-      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">software that is readable</text>
-    </g>
-    <g transform="translate(906 48)">
-      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="36" cy="36" r="14" fill="#E6F4F1"/>
-      <path d="M30 38L35 43L45 29" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="64" y="38" fill="#0F172A" font-size="18" font-weight="850">Clarity</text>
-      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">docs, reasoning, handoff</text>
-    </g>
+
+    <rect x="56" y="206" width="1088" height="3" rx="1.5" fill="url(#brand)" opacity="0.64">
+      <animate attributeName="opacity" values="0.35;0.7;0.35" dur="6s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
