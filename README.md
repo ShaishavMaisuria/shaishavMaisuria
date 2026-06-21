@@ -37,7 +37,7 @@ I build at the intersection of AI workflows, data-informed engineering, and prac
 
 ## Toolbox
 
-<img src="./assets/toolbox.svg" alt="Toolbox: Python, JavaScript, Java, Go, R, Jupyter, React, Node.js, Express, MongoDB, Firebase, Google Cloud, Postman, Git, and Markdown" width="100%">
+<img src="./assets/toolbox.svg" alt="Toolbox: Python, JavaScript, Java, Go, R, Jupyter, React, Node.js, Express, MongoDB, Firebase, Cloud, Postman, Git, and Markdown" width="100%">
 
 ## How I work
 

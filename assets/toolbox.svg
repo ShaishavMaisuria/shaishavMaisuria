@@ -1,108 +1,93 @@
-<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Shaishav Maisuria toolbox</title>
-  <desc id="desc">A professional toolbox panel with uniform white, slate, teal, cyan, and blue styling.</desc>
+  <desc id="desc">A bounded white toolbox panel with uniformly sized technology chips.</desc>
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F8FAFC"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="70" y1="190" x2="1130" y2="44" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F766E"/>
-      <stop offset="0.55" stop-color="#0E7490"/>
-      <stop offset="1" stop-color="#2563EB"/>
-    </linearGradient>
-    <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
-      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#0F172A" flood-opacity="0.10"/>
-    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="250" rx="26"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="230" rx="26" fill="url(#surface)"/>
-  <rect x="1" y="1" width="1198" height="228" rx="25" stroke="#E2E8F0"/>
-  <path d="M70 188H1130" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="92 36" opacity="0.62">
-    <animate attributeName="stroke-dashoffset" values="0;-256" dur="7s" repeatCount="indefinite"/>
-  </path>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="250" fill="#FFFFFF"/>
+    <rect x="1" y="1" width="1198" height="248" rx="25" stroke="#E2E8F0"/>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="64" y="58" fill="#0F172A" font-size="24" font-weight="850">Toolbox</text>
-    <text x="64" y="86" fill="#475569" font-size="14" font-weight="600">Languages, frameworks, cloud tools, and workflow utilities I work across.</text>
-  </g>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" filter="url(#shadow)">
-    <g transform="translate(64 116)">
-      <rect width="120" height="42" rx="14" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="22" cy="21" r="7" fill="#0F766E"/>
-      <text x="42" y="26" fill="#0F172A">Python</text>
-    </g>
-    <g transform="translate(202 116)">
-      <rect width="142" height="42" rx="14" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="22" cy="21" r="7" fill="#0F766E"/>
-      <text x="42" y="26" fill="#0F172A">JavaScript</text>
-    </g>
-    <g transform="translate(362 116)">
-      <rect width="94" height="42" rx="14" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="22" cy="21" r="7" fill="#0E7490"/>
-      <text x="42" y="26" fill="#0F172A">Java</text>
-    </g>
-    <g transform="translate(474 116)">
-      <rect width="82" height="42" rx="14" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="22" cy="21" r="7" fill="#0E7490"/>
-      <text x="42" y="26" fill="#0F172A">Go</text>
-    </g>
-    <g transform="translate(574 116)">
-      <rect width="72" height="42" rx="14" fill="#FFFFFF" stroke="#BFDBFE"/>
-      <circle cx="22" cy="21" r="7" fill="#2563EB"/>
-      <text x="42" y="26" fill="#0F172A">R</text>
-    </g>
-    <g transform="translate(664 116)">
-      <rect width="116" height="42" rx="14" fill="#FFFFFF" stroke="#BFDBFE"/>
-      <circle cx="22" cy="21" r="7" fill="#2563EB"/>
-      <text x="42" y="26" fill="#0F172A">Jupyter</text>
-    </g>
-    <g transform="translate(798 116)">
-      <rect width="104" height="42" rx="14" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="22" cy="21" r="7" fill="#0F766E"/>
-      <text x="42" y="26" fill="#0F172A">React</text>
-    </g>
-    <g transform="translate(920 116)">
-      <rect width="112" height="42" rx="14" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="22" cy="21" r="7" fill="#0E7490"/>
-      <text x="42" y="26" fill="#0F172A">Node.js</text>
-    </g>
-    <g transform="translate(1050 116)">
-      <rect width="100" height="42" rx="14" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="22" cy="21" r="7" fill="#0E7490"/>
-      <text x="42" y="26" fill="#0F172A">Git</text>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="56" y="48" fill="#0F172A" font-size="22" font-weight="850">Toolbox</text>
+      <text x="56" y="76" fill="#64748B" font-size="13" font-weight="600">A practical stack for AI-assisted workflows, data analysis, web systems, and documentation.</text>
     </g>
 
-    <g transform="translate(64 168)">
-      <rect width="112" height="42" rx="14" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="22" cy="21" r="7" fill="#0E7490"/>
-      <text x="42" y="26" fill="#0F172A">Express</text>
-    </g>
-    <g transform="translate(194 168)">
-      <rect width="128" height="42" rx="14" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="22" cy="21" r="7" fill="#0F766E"/>
-      <text x="42" y="26" fill="#0F172A">MongoDB</text>
-    </g>
-    <g transform="translate(340 168)">
-      <rect width="120" height="42" rx="14" fill="#FFFFFF" stroke="#D8E8E4"/>
-      <circle cx="22" cy="21" r="7" fill="#0F766E"/>
-      <text x="42" y="26" fill="#0F172A">Firebase</text>
-    </g>
-    <g transform="translate(478 168)">
-      <rect width="154" height="42" rx="14" fill="#FFFFFF" stroke="#BFDBFE"/>
-      <circle cx="22" cy="21" r="7" fill="#2563EB"/>
-      <text x="42" y="26" fill="#0F172A">Google Cloud</text>
-    </g>
-    <g transform="translate(650 168)">
-      <rect width="120" height="42" rx="14" fill="#FFFFFF" stroke="#DCE6EF"/>
-      <circle cx="22" cy="21" r="7" fill="#0E7490"/>
-      <text x="42" y="26" fill="#0F172A">Postman</text>
-    </g>
-    <g transform="translate(788 168)">
-      <rect width="130" height="42" rx="14" fill="#FFFFFF" stroke="#BFDBFE"/>
-      <circle cx="22" cy="21" r="7" fill="#2563EB"/>
-      <text x="42" y="26" fill="#0F172A">Markdown</text>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">
+      <g transform="translate(56 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
+        <text x="44" y="26" fill="#0F172A">Python</text>
+      </g>
+      <g transform="translate(212 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
+        <text x="44" y="26" fill="#0F172A">JavaScript</text>
+      </g>
+      <g transform="translate(368 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
+        <text x="44" y="26" fill="#0F172A">Java</text>
+      </g>
+      <g transform="translate(524 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
+        <text x="44" y="26" fill="#0F172A">Go</text>
+      </g>
+      <g transform="translate(680 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
+        <text x="44" y="26" fill="#0F172A">R</text>
+      </g>
+      <g transform="translate(836 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
+        <text x="44" y="26" fill="#0F172A">Jupyter</text>
+      </g>
+      <g transform="translate(992 108)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
+        <text x="44" y="26" fill="#0F172A">React</text>
+      </g>
+
+      <g transform="translate(56 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
+        <text x="44" y="26" fill="#0F172A">Node.js</text>
+      </g>
+      <g transform="translate(212 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
+        <text x="44" y="26" fill="#0F172A">Express</text>
+      </g>
+      <g transform="translate(368 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
+        <text x="44" y="26" fill="#0F172A">MongoDB</text>
+      </g>
+      <g transform="translate(524 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#D8E8E4"/>
+        <circle cx="24" cy="21" r="7" fill="#0F766E"/>
+        <text x="44" y="26" fill="#0F172A">Firebase</text>
+      </g>
+      <g transform="translate(680 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
+        <text x="44" y="26" fill="#0F172A">Cloud</text>
+      </g>
+      <g transform="translate(836 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#DCE6EF"/>
+        <circle cx="24" cy="21" r="7" fill="#0E7490"/>
+        <text x="44" y="26" fill="#0F172A">Postman</text>
+      </g>
+      <g transform="translate(992 166)">
+        <rect width="138" height="42" rx="14" fill="#F8FAFC" stroke="#BFDBFE"/>
+        <circle cx="24" cy="21" r="7" fill="#2563EB"/>
+        <text x="44" y="26" fill="#0F172A">Markdown</text>
+      </g>
     </g>
   </g>
 </svg>
