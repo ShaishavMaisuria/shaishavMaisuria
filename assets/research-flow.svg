@@ -1,0 +1,56 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Professional brand pillars</title>
+  <desc id="desc">A refined strip showing four brand pillars: systems, data, craft, and clarity.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="150" x2="1120" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A9D8F"/>
+      <stop offset="0.45" stop-color="#457B9D"/>
+      <stop offset="1" stop-color="#E76F51"/>
+    </linearGradient>
+    <filter id="shadow" x="-12%" y="-40%" width="124%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#14213D" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="190" rx="26" fill="url(#surface)"/>
+  <rect x="1" y="1" width="1198" height="188" rx="25" stroke="#E2E8F0"/>
+  <path d="M88 150C246 92 358 104 506 126C654 148 758 95 890 78C986 66 1062 84 1112 46" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-opacity="0.62"/>
+  <path d="M88 150C246 92 358 104 506 126C654 148 758 95 890 78C986 66 1062 84 1112 46" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="74 160">
+    <animate attributeName="stroke-dashoffset" values="0;-468" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(72 48)">
+      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#D8E8E4"/>
+      <circle cx="36" cy="36" r="14" fill="#E6F4F1"/>
+      <path d="M28 36H44M36 28V44" stroke="#2A9D8F" stroke-width="3" stroke-linecap="round"/>
+      <text x="64" y="38" fill="#14213D" font-size="18" font-weight="850">Systems</text>
+      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">AI workflows with structure</text>
+    </g>
+    <g transform="translate(350 48)">
+      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#DCE6EF"/>
+      <circle cx="36" cy="36" r="14" fill="#EDF2F7"/>
+      <path d="M28 42L34 35L40 39L46 29" stroke="#457B9D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="64" y="38" fill="#14213D" font-size="18" font-weight="850">Data</text>
+      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">analysis that informs choices</text>
+    </g>
+    <g transform="translate(628 48)">
+      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#F0DEC9"/>
+      <circle cx="36" cy="36" r="14" fill="#FFF7E6"/>
+      <path d="M28 34H44M28 42H38M28 26H42" stroke="#D69A2D" stroke-width="3" stroke-linecap="round"/>
+      <text x="64" y="38" fill="#14213D" font-size="18" font-weight="850">Craft</text>
+      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">software that is readable</text>
+    </g>
+    <g transform="translate(906 48)">
+      <rect width="238" height="96" rx="18" fill="#FFFFFF" stroke="#F3CFC5"/>
+      <circle cx="36" cy="36" r="14" fill="#FFF0EA"/>
+      <path d="M30 38L35 43L45 29" stroke="#E76F51" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="64" y="38" fill="#14213D" font-size="18" font-weight="850">Clarity</text>
+      <text x="64" y="64" fill="#475569" font-size="13" font-weight="600">docs, reasoning, handoff</text>
+    </g>
+  </g>
+</svg>
