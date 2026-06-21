@@ -4,9 +4,9 @@
 
 # Shaishav Maisuria
 
-### Building AI-assisted research tools, data experiments, and practical full-stack software.
+### AI-assisted workflows, data systems, and practical software craft.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+agents+for+research+workflows;Python+automation+and+data+experiments;Building+tools+that+make+complex+work+clear" alt="Animated typing SVG: AI agents, Python automation, and clear tools" width="92%">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=2A9D8F&center=true&vCenter=true&width=900&lines=AI-assisted+workflow+systems;Data-backed+software+experiments;Clear+tools+for+complex+work" alt="Animated typing SVG: AI-assisted workflows, data-backed software, and clear tools" width="92%">
 
 <p>
   <a href="https://www.linkedin.com/in/shaishav-maisuria/">
@@ -15,46 +15,25 @@
   <a href="https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
-  <a href="https://github.com/ShaishavMaisuria?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/GitHub-Projects-24292f?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/ShaishavMaisuria">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-24292f?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I build at the intersection of AI workflows, data-informed engineering, and practical software. My GitHub profile is meant to show a clear professional signal: thoughtful systems, readable implementation, and tools that make complex work easier to understand and use.
 
-I like building systems that make complex work easier: AI agent skills, research-paper workflows, data notebooks, automation scripts, and web apps. My projects usually start as experiments, then grow into small tools with clearer docs, cleaner interfaces, and reusable patterns.
+<img src="./assets/research-flow.svg" alt="Professional brand pillars: systems, data, craft, and clarity" width="100%">
 
-Right now I am focused on:
+## Brand focus
 
-- AI agents and skill-based workflows for research and writing support.
-- Python automation, data analysis, and cloud-backed prototypes.
-- Full-stack learning projects across JavaScript, Node, Java, and Android.
-
-Open to collaborating on AI experiments, developer tools, data projects, and student or research workflows.
-
-</td>
-<td width="42%" align="center">
-  <img src="./brainAI.gif" alt="Animated blue AI brain" width="96%">
-</td>
-</tr>
-</table>
-
-<img src="./assets/research-flow.svg" alt="Animated research workflow: discover, build, verify, ship, present" width="100%">
-
-## Featured work
-
-| Project | What it shows |
+| Pillar | Direction |
 | --- | --- |
-| [research-paper-lifecycle-skills](https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills) | Agent skills for the full research-paper lifecycle: discovery, writing, verification, submission, rebuttal, publishing, and presentation workflows. |
-| [SubscriptionAnalyzer](https://github.com/ShaishavMaisuria/SubscriptionAnalyzer) | Machine learning analysis of banking subscription data with a report and Jupyter/Python code. |
-| [RefurbhishedProductsWebsiteUserNavigation](https://github.com/ShaishavMaisuria/RefurbhishedProductsWebsiteUserNavigation) | Web application work around product navigation for a refurbished-products experience. |
-| [SentimentReviewer](https://github.com/ShaishavMaisuria/SentimentReviewer) | Java application practice around review-style inputs, logic, and sentiment-oriented workflows. |
-| [AstarPathFinding](https://github.com/ShaishavMaisuria/AstarPathFinding) | A* pathfinding implementation using Manhattan-distance heuristics. |
-| [FaceRecognition](https://github.com/ShaishavMaisuria/FaceRecognition) | Computer-vision learning project for face detection and image-processing fundamentals. |
+| AI systems | Designing agent-assisted workflows that keep human judgment in control. |
+| Data thinking | Turning messy information into analysis, decisions, and useful feedback loops. |
+| Software craft | Writing code that is understandable, maintainable, and easy to build on. |
+| Communication | Making technical work easier to explain through docs, structure, and clean handoffs. |
 
 ## Toolbox
 
@@ -82,16 +61,16 @@ Open to collaborating on AI experiments, developer tools, data projects, and stu
 
 - I use GitHub as a lab notebook: build, document, revisit, improve.
 - I value code that explains the idea, not just code that runs.
-- I like projects where AI, data, and product thinking meet.
+- I like work where AI, data, and product thinking meet.
 
 ## GitHub snapshot
 
 <p>
-  <img height="170" alt="Shaishav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShaishavMaisuria&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
-  <img height="170" alt="Shaishav's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaishavMaisuria&layout=compact&hide_border=true&theme=transparent">
+  <img height="170" alt="Shaishav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShaishavMaisuria&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=14213D&text_color=334155&icon_color=2A9D8F">
+  <img height="170" alt="Shaishav's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaishavMaisuria&layout=compact&hide_border=true&theme=transparent&title_color=14213D&text_color=334155">
 </p>
 
-<img alt="Shaishav's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaishavMaisuria&theme=github-compact&hide_border=true&radius=8" width="100%">
+<img alt="Shaishav's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaishavMaisuria&bg_color=ffffff00&color=334155&line=2A9D8F&point=E76F51&area=true&area_color=E6F4F1&title_color=14213D&hide_border=true&radius=8" width="100%">
 
 ## Connect
 
