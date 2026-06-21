@@ -45,14 +45,6 @@ I build at the intersection of geospatial intelligence, big-data engineering, AW
 - I build data systems as repeatable pipelines: ingest, transform, validate, serve, monitor.
 - I use AI as engineering infrastructure: prompts, context, tools, evals, harnesses, and automation.
 
-## GitHub snapshot
-
-<p>
-  <img height="170" alt="Shaishav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShaishavMaisuria&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=0F172A&text_color=334155&icon_color=0F766E">
-</p>
-
-<img alt="Shaishav's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaishavMaisuria&bg_color=ffffff00&color=334155&line=0F766E&point=0E7490&area=true&area_color=ECFDF5&title_color=0F172A&hide_border=true&radius=8" width="100%">
-
 ## Connect
 
 I am easiest to reach through [LinkedIn](https://www.linkedin.com/in/shaishav-maisuria/). For a concise background summary, open my [resume](https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing).
