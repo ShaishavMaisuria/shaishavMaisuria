@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Animated banner for Shaishav Maisuria: geospatial AI, big data, AWS ETL, and AI engineering" width="100%">
+<img src="./assets/hero.svg" alt="Animated banner for Shaishav Maisuria: geospatial data infrastructure, big data ETL, AWS, and AI engineering" width="100%">
 
 # Shaishav Maisuria
 
