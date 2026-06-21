@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./assets/hero.svg" alt="Animated banner for Shaishav Maisuria: AI, research, and software" width="100%">
+
 # Shaishav Maisuria
 
 ### Building AI-assisted research tools, data experiments, and practical full-stack software.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+agents+for+research+workflows;Python+automation+and+data+experiments;Building+tools+that+make+complex+work+clear" alt="Animated typing SVG: AI agents, Python automation, and clear tools" width="92%">
 
 <p>
   <a href="https://www.linkedin.com/in/shaishav-maisuria/">
@@ -34,10 +38,12 @@ Open to collaborating on AI experiments, developer tools, data projects, and stu
 
 </td>
 <td width="42%" align="center">
-  <img src="./brainAI.gif" alt="Animated blue AI brain" width="100%">
+  <img src="./brainAI.gif" alt="Animated blue AI brain" width="96%">
 </td>
 </tr>
 </table>
+
+<img src="./assets/research-flow.svg" alt="Animated research workflow: discover, build, verify, ship, present" width="100%">
 
 ## Featured work
 
@@ -84,6 +90,8 @@ Open to collaborating on AI experiments, developer tools, data projects, and stu
   <img height="170" alt="Shaishav's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShaishavMaisuria&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
   <img height="170" alt="Shaishav's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaishavMaisuria&layout=compact&hide_border=true&theme=transparent">
 </p>
+
+<img alt="Shaishav's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaishavMaisuria&theme=github-compact&hide_border=true&radius=8" width="100%">
 
 ## Connect
 
