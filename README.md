@@ -2,7 +2,9 @@
 
 **Geospatial AI engineer at Amazon Maps.**
 
-I build AI agents that reason over imagery and geometry, along with the tools and data pipelines that make their results testable and repeatable.
+I build geospatial AI agent harnesses and distributed spatial ETL pipelines on AWS. My work spans reasoning over imagery and geometry, validating agent outputs, and preparing large spatial datasets with Scala, Spark, Apache Sedona, and Hadoop.
+
+**[Best Demo Paper Award, ACM SIGSPATIAL 2026](https://github.com/vishal4c/vishal4c#awards)** · MapScout, with Vishal Kumar and Emre Eftelioglu.
 
 [LinkedIn](https://www.linkedin.com/in/shaishav-maisuria/) · [Amazon Science](https://www.amazon.science/author/shaishav-m-maisuria) · [Résumé](https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing)
 
@@ -17,7 +19,7 @@ I build AI agents that reason over imagery and geometry, along with the tools an
 
 ## Selected research
 
-- **[MapScout](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling)** · ACM SIGSPATIAL 2026 demo. Agents use satellite imagery, OpenStreetMap, and GPS traces to propose edits. Non-LLM tools check topology and routing; people decide which edits to accept.
+- **[MapScout](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling)** · ACM SIGSPATIAL 2026 Best Demo Paper. Agents use satellite imagery, OpenStreetMap, and GPS traces to propose edits. Non-LLM tools check topology and routing; people decide which edits to accept.
 - **[Transferring the long tail](https://www.amazon.science/publications/transferring-the-long-tail-composing-geometric-and-llm-based-stitching-for-cross-provider-map-migration)** · IEEE Big Data 2026, first author. Geometric rules handle straightforward cases; a multimodal agent chooses among candidate connections in harder ones.
 - **[Scalable conflation](https://www.amazon.science/publications/scalable-conflation-for-maps-data-replay-between-heterogeneous-geospatial-data-sources)** · ACM SIGSPATIAL 2026 Industry Track, first author. On the OpenStreetMap–Overture benchmark, our system transferred about 60% of turn restrictions at 99% precision.
 
@@ -30,5 +32,5 @@ I build AI agents that reason over imagery and geometry, along with the tools an
 
 ## Engineering
 
-- **AI engineering:** Agent harnesses, prompt and context engineering, AI developer tools, evaluation, and infrastructure.
-- **Spatial data systems:** Distributed ETL with Scala, Spark, Apache Sedona, Hadoop, and AWS.
+- **Distributed spatial ETL:** Spatial joins, data harmonization, and regional partitioning with Scala, Spark, Apache Sedona, Hadoop, and AWS. In our [FOSS4G tile pipeline](https://talks.osgeo.org/foss4g-na-2026/talk/USHLU9/), Sedona combines OpenStreetMap-derived data, Overture Maps, and Natural Earth into partitioned GeoParquet. Planetiler then builds vector tiles directly from those files, without a spatial database in the generation path.
+- **AI engineering:** Agent harnesses, prompt and context engineering, AI-assisted development, evaluation, and infrastructure. I build developer tools and use deterministic geometry and routing checks where a model's judgment isn't enough.
