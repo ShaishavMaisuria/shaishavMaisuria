@@ -1,50 +1,28 @@
-<div align="center">
-
-<img src="./assets/hero.svg" alt="Animated banner for Shaishav Maisuria: geospatial data infrastructure, big data ETL, AWS, and AI engineering" width="100%">
-
 # Shaishav Maisuria
 
-### Geospatial AI, big data engineering, AWS ETL, and AI infrastructure.
+**Geospatial engineer building map data systems at scale.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=0F766E&center=true&vCenter=true&width=900&lines=Geospatial+AI+and+spatial+data+systems;Scala%2C+Hadoop%2C+Spark%2C+ETL%2C+AWS;AI-driven+development%2C+context+engineering%2C+AI+infra" alt="Animated typing SVG: geospatial AI, big data, ETL, AWS, and AI infrastructure" width="92%">
+I work on road networks, map migration, and spatial data pipelines. I also build AI tools and agent harnesses that propose map edits and check them before human review.
 
-<p>
-  <a href="https://www.linkedin.com/in/shaishav-maisuria/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shaishav%20Maisuria-0F766E?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-0E7490?style=for-the-badge&logo=googledrive&logoColor=white">
-  </a>
-  <a href="https://github.com/ShaishavMaisuria">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/shaishav-maisuria/) · [Amazon Science](https://www.amazon.science/author/shaishav-m-maisuria) · [Résumé](https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing)
 
-</div>
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="./assets/hero.svg">
+  <img src="./assets/hero.png" alt="Illustrated street network with a highlighted route across the map">
+</picture>
 
-I build at the intersection of geospatial intelligence, big-data engineering, AWS data infrastructure, and AI-driven development. My work centers on spatial data systems, ETL pipelines, scalable processing, context engineering, AI harnesses, and practical AI tools that make complex technical workflows easier to run and reason about.
+## Selected research
 
-<img src="./assets/research-flow.svg" alt="Professional brand pillars: geospatial intelligence, big data and ETL, AWS infrastructure, and AI engineering" width="100%">
+- **[Scalable conflation for maps data replay between heterogeneous geospatial data sources](https://www.amazon.science/publications/scalable-conflation-for-maps-data-replay-between-heterogeneous-geospatial-data-sources)** · ACM SIGSPATIAL 2026. Transferring road attributes and turn restrictions when switching map providers.
+- **[MapScout: An agentic harness for map editing and geospatial data labeling](https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling)** · ACM SIGSPATIAL 2026 demo. Agents propose edits, deterministic checks test them, and people make the final call.
+- **[Transferring the long tail: Composing geometric and LLM-based stitching for cross-provider map migration](https://www.amazon.science/publications/transferring-the-long-tail-composing-geometric-and-llm-based-stitching-for-cross-provider-map-migration)** · IEEE Big Data 2026. Combining geometry and model-assisted selection to reconnect road edits on a new basemap.
 
-## Brand focus
+## Talks
 
-| Pillar | Direction |
-| --- | --- |
-| Geospatial intelligence | GIS, spatial data modeling, mapping workflows, and location-aware analytics. |
-| Big data and ETL | Scala, Hadoop/Spark-style processing, pipeline design, orchestration, and data quality. |
-| AWS data infrastructure | Cloud-native storage, processing, integration, and operational data platforms. |
-| AI engineering | AI-driven development, prompt/context engineering, AI harnesses, tools, and infra. |
+- **[How Amazon Generates Map Tiles for Last-Mile Delivery Using OSM-Derived Datasets and Planetiler](https://openstreetmap.us/events/state-of-the-map-us/2026/how-amazon-generates-map-tiles/)** · State of the Map US 2026, with Vishal Kumar.
 
-## Toolbox
+## Engineering
 
-<img src="./assets/toolbox.svg" alt="Toolbox: GIS, spatial SQL, PostGIS, GeoPandas, GDAL, QGIS, Scala, Spark, Hadoop, ETL, Airflow, Kafka, AWS, S3, Glue, EMR, Athena, Lambda, prompt engineering, context engineering, AI harnesses, AI tools, AI infrastructure, and agents" width="100%">
-
-## How I work
-
-- I think spatially first: location, scale, topology, time, and data quality all matter.
-- I build data systems as repeatable pipelines: ingest, transform, validate, serve, monitor.
-- I use AI as engineering infrastructure: prompts, context, tools, evals, harnesses, and automation.
-
-## Connect
-
-I am easiest to reach through [LinkedIn](https://www.linkedin.com/in/shaishav-maisuria/). For a concise background summary, open my [resume](https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing).
+- **Geospatial:** Road-network topology, conflation, vector tiles, and routing data.
+- **Data platforms:** Distributed ETL with Scala, Spark, Hadoop, and AWS.
+- **AI engineering:** AI-assisted development, prompt and context engineering, agent harnesses, tooling, evaluation, and infrastructure.
