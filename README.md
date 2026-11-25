@@ -7,9 +7,13 @@ I build AI agents that reason over imagery and geometry, along with the tools an
 [LinkedIn](https://www.linkedin.com/in/shaishav-maisuria/) · [Amazon Science](https://www.amazon.science/author/shaishav-m-maisuria) · [Résumé](https://drive.google.com/file/d/1Klni1VQr1xGMxMwY8ShntAT614evKUGY/view?usp=sharing)
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: no-preference)" srcset="./assets/hero-mobile.svg">
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.png">
   <source media="(prefers-reduced-motion: no-preference)" srcset="./assets/hero.svg">
-  <img src="./assets/hero.png" alt="Topographic contours with an extracted elevation boundary and control points highlighted in teal">
+  <img src="./assets/hero.png" alt="Geospatial AI: a proposed path stops short of the walking network. A second path reaches a graph node and passes the connectivity check.">
 </picture>
+
+*In this synthetic example, a proposed sidewalk looks plausible but only the corrected path connects to the walking network.*
 
 ## Selected research
 
