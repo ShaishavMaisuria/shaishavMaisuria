@@ -8,7 +8,7 @@ I build AI systems for spatial data, with tools to test the outputs and pipeline
 
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="./assets/hero.svg">
-  <img src="./assets/hero.png" alt="Three spatial layers showing source data, extracted features, and a geometry that passed a check">
+  <img src="./assets/hero.png" alt="Topographic contours with an extracted elevation boundary and control points highlighted in teal">
 </picture>
 
 ## Selected research
