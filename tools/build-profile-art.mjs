@@ -101,5 +101,5 @@ ${definitions}
 <rect x="1" y="1" width="${width - 2}" height="${height - 2}" rx="7" fill="none" stroke="#ceded6"/>
 </svg>
 `;
-  writeFileSync(new URL(`../assets/hero${mobile ? '-mobile' : ''}.svg`, import.meta.url), svg);
+  writeFileSync(new URL(`../assets/spatial-validation${mobile ? '-mobile' : ''}.svg`, import.meta.url), svg);
 }
